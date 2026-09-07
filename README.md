@@ -88,7 +88,7 @@ npx serve .
 
 ## Deployment
 
-Deployed on Vercel at [therunt.wib.digital](https://therunt.wib.digital). Static hosting with no configuration: upload the repository root as-is, no build command and no output directory. The canonical URL, `og:url` and `sitemap.xml` all point at that domain — change them if you deploy elsewhere.
+Deployed on GitHub Pages at [pablowib.github.io/The-Runt](https://pablowib.github.io/The-Runt). Static hosting with no configuration: upload the repository root as-is, no build command and no output directory. The canonical URL, `og:url` and `sitemap.xml` all point at that domain — change them if you deploy elsewhere.
 
 ## Author
 

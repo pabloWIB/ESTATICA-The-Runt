@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://therunt.wib.digital/sitemap.xml
+Sitemap: https://pablowib.github.io/The-Runt/sitemap.xml
